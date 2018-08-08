@@ -4,7 +4,7 @@ Programme
 The programme is subject to change:
 
 +-------+-------------+-------------------------+
-| Time  |  Who        |   What                  |
+| Time  |  Speaker    |  Title                  |
 +=======+=============+=========================+
 | 09:00 |       Registration                    |
 +-------+-------------+-------------------------+
