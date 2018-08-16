@@ -14,6 +14,7 @@ The recent EPSRC investment in Tier-2 HPC machines supported by Universities cre
    :caption: Contents:
 
    overview
+   location
    programme
    talks
    topics
