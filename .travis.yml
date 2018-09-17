@@ -1,5 +1,5 @@
 install:
-  - pip install --user Sphinx-1.7.9
+  - pip install --user Sphinx==1.7.9
   - pip install --user sphinx_rtd_theme
 
 script:
